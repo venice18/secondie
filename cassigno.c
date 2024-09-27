@@ -6,12 +6,15 @@ int main(){
   int time;
   float rate_values;
   int Simple_interest;
+  
   //calculting simple interest
   Simple_interest = (principal_amount * time * rate_values)/100;
+
 
   //printing the principal amount
   printf("Enter the principal_amount:\n ");
   scanf("%d", &principal_amount);
+
 
 //printing the time
   printf("Enter the time:\n ");
