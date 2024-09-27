@@ -1,4 +1,8 @@
 #include<stdio.h>
+/*Author- Elizabeth Muthoni
+  Registration number-CT101/G/22818/2024
+  */
+
 
 //program to calculate simple interest
 int main(){
