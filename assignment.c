@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+/*Author- Elizabeth Muthoni
+  Registration number- CT101/G/22818/24
+  Date- 2024/09/27*/
 //program to calculate simple interesty
 int main(){
   int principle_amount = 2000;
