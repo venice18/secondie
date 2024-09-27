@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 
+/*Author- Elizabeth Muthoni
+  Registration number- CT101/G/22818/24
+  Date -2024/09/27*/
+
 int main(){
   int principal_balance;
   float interest_rate;
