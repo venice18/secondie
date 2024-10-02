@@ -6,6 +6,7 @@
 
 //conditional statements(if...else...elseif)
 //creating variables
+int main(){
 int age;
 int annual_income;
 
@@ -21,5 +22,6 @@ if(age >= 21, annual_income >= 21000){
   printf("Congratulations you qualify for a loan");
 }else{
   printf("Unfortunately, we are unable to offer you a loan at this time");
+}
   return 0;
 }
