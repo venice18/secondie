@@ -44,4 +44,6 @@ int main(){
   printf("\nDays Overdue: %d", Days_Overdue);
   printf("\nFine Rate: %d", fineRate);
   printf("\nFine Amount: %d", fineAmount);
+
+  return 0;
 }  
