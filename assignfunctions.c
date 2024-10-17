@@ -1,3 +1,6 @@
+/*Author- Elizabeth Muthoni
+  Reg No- CT101/G/22818/24
+  Date - 2024/10/17*/
 #include<stdio.h>
 #include<math.h>
 //functions to calculate the total bill
